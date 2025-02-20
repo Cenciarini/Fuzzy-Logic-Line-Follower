@@ -20,7 +20,7 @@ This project simulates a **line-following robot** using **CoppeliaSim**. The rob
 ```
 ├── main.py                 # Main Python script to run the simulation
 ├── mobile.ttt              # CoppeliaSim scene file
-├── qtUi.ui                 # PyQt6 UI file for the interface
+├── qtUi.ui                 # PyQt5 UI file for the interface
 ├── remoteApi.dll           # Required DLL for CoppeliaSim API
 ├── sim.py                  # Python wrapper for CoppeliaSim API
 ├── simConst.py             # Constants for CoppeliaSim API
